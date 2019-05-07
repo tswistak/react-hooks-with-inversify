@@ -1,1 +1,1 @@
-react-hooks-with-inversify
+Example of using InversifyJS in React with Hooks and Context API.
